@@ -26,9 +26,9 @@
     },
     "commonInformationModels": null,
     "license": {
-      "name": "Apache License, Version 2.0",
-      "text": "LICENSE",
-      "uri": "http://www.apache.org/licenses/LICENSE-2.0"
+      "name": null,
+      "text": null,
+      "uri": null
     },
     "privacyPolicy": {
       "name": null,
@@ -38,7 +38,7 @@
     "releaseNotes": {
       "name": "README",
       "text": "README",
-      "uri": "https://ta-pinsafe.readthedocs.io/en/latest/releasenotes.html"
+      "uri": "https://diogofgm.github.com/TA-swivel_sentry"
     }
   },
   "dependencies": null,
