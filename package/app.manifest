@@ -1,11 +1,11 @@
 {
   "schemaVersion": "2.0.0",
   "info": {
-    "title": "Swivel Secure PINsafe Add-on for Splunk",
+    "title": "wivel Secure AuthControl Sentry Add-on for Splunk",
     "id": {
       "group": null,
-      "name": "TA-pinsafe",
-      "version": "1.3.1"
+      "name": "TA-swivel_sentry",
+      "version": "1.0.0"
     },
     "author": [
       {
@@ -15,7 +15,7 @@
       }
     ],
     "releaseDate": null,
-    "description": "Swivel Secure PINsafe Add-on for Splunk",
+    "description": "wivel Secure AuthControl Sentry Add-on for Splunk",
     "classification": {
       "intendedAudience": "IT",
       "categories": [
