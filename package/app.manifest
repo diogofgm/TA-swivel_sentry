@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0.0",
   "info": {
-    "title": "wivel Secure AuthControl Sentry Add-on for Splunk",
+    "title": "Swivel Secure AuthControl Sentry Add-on for Splunk",
     "id": {
       "group": null,
       "name": "TA-swivel_sentry",
@@ -15,7 +15,7 @@
       }
     ],
     "releaseDate": null,
-    "description": "wivel Secure AuthControl Sentry Add-on for Splunk",
+    "description": "Swivel Secure AuthControl Sentry Add-on for Splunk",
     "classification": {
       "intendedAudience": "IT",
       "categories": [
